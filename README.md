@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-Created by Janco. For any inquiries or support, please visit [Janco's GitHub](https://github.com/JancoNel-dev).
+Created by Janco.
 
 ---
 
