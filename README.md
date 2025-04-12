@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to TTM Chatroom, an open-source, secure chat application with a sleek twilight-themed GUI. While the exact meaning of TTM has been lost to time, its functionality and features are cutting-edge, designed to provide a seamless and secure chatting experience.
+Welcome to TTM Chatroom, an open-source, secure chat application with a sleek twilight-themed GUI. TTM stands for Tri-Tiered Messaging, its functionality and features are cutting-edge, designed to provide a seamless and secure chatting experience.
 
 ## Key Features
 
